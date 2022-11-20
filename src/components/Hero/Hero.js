@@ -10,10 +10,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Personal Portfolio
+          Webflex
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        We can help complete your work, from web design to website creation
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
